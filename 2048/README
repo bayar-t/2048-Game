@@ -1,0 +1,23 @@
+1)To replace every "fun" with "amazing" you type ":%s/fun/amazing/g" and press
+enter. To only replace the first instace, you type ":%s/fun/amazing/" and press
+enter.
+
+2)To create a new direction call fooDir and inside this create another directory
+called barDir, you would type "mkdir -p fooDir/barDir" and press enter.
+
+3)javac *.java - 
+this compiles all the files in the current directory.
+
+4)Type "gvim *.java" and press enter in cmd.
+
+5)Static methods do not require a calling object. Instead you use their class to
+call them.
+Ex: Math.abs(integer x).
+This calls abs on the Math class using an integer parameter and returns the
+absolute value of the integer parameter.
+
+6)She can improve her design by generalizing her shape methods by using a color
+parameter to define what color it is. So intead of using drawRedCircle(), she
+should use a drawCircle(Color color) to make it so that there is a Color
+parameter. So by doing this, she will only need one method for every color of a
+shape.

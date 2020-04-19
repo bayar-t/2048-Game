@@ -13,20 +13,3 @@ either 2 or 4. The tiles will slide as far as it can until it hits another tile
 or the edge. If the tile hits another tile with the same value, it combines
 which forms another tile with the total value of the two tiles.
 
-Unix/Linux related questions:
-1)In the command type 'Explore'. Press '-' three times to go above three
-directories. Then hit R and enter the new filepath. When done entering, hit
-<CR>.
-
-2)Shows the manual for the cat command.
-
-Vim Related Questions:
-3)type (line number)G
-
-4)'gg' jumps to the first line while 'G' jumps to the last line.
-
-Java Questions:
-5)Name of the class the constructor is in and the access modifier.
-
-6)You can call a method without creating a object to which it belongs.
-
